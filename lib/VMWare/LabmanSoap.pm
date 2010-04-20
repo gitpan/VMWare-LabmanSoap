@@ -1,4 +1,4 @@
-package LabmanSoapInternal;
+package LabmanSoap;
 use strict;
 use SOAP::Lite ( maptype => {} );
 use Data::Dumper;
@@ -9,11 +9,11 @@ VMWare::LabmanSoap - access Vmware Labmanager SOAP API
 
 =head1 VERSION
 
-Version 0.99
+Version 0.99_1
 
 =cut
 
-our $VERSION = '0.99';
+our $VERSION = '0.99_1';
 
 =head1 SYNOPSIS
 
