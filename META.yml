@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                VMWare-LabmanSoap
-version:             0.99_1
+version:             1.0
 abstract:            access Vmware Labmanager SOAP API 
 license:             perl
 author:              

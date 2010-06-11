@@ -9,11 +9,11 @@ VMWare::LabmanSoap - access Vmware Labmanager SOAP API
 
 =head1 VERSION
 
-Version 0.99_1
+Version 1.0
 
 =cut
 
-our $VERSION = '0.99_1';
+our $VERSION = '1.0';
 
 =head1 SYNOPSIS
 

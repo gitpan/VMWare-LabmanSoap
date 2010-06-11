@@ -18,3 +18,4 @@ WriteMakefile(
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'VMWare-LabmanSoap-*' },
 );
+
